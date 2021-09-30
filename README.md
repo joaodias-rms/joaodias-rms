@@ -18,7 +18,7 @@
 
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-victor-8094481ba/)
 
-[Instagram_badge]<a href="https://www.instagram.com/joaodias-rms/"><img src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo.png" width="16"></img></a> [Instagram](https://www.instagram.com/joaodias-rms/)  
+<a href="https://www.instagram.com/joaodias-rms/"><img src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo.png" width="16"></img></a> [Instagram](https://www.instagram.com/joaodias-rms/)  
 
 
 
