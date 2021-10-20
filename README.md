@@ -7,7 +7,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning React-native
+:books: I’m currently learning Javascript and React-native
 
 ## Where to find me
 <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-8094481ba/">![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
