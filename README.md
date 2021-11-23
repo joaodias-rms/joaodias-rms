@@ -4,10 +4,11 @@
 ## I'm João Dias!
 :computer: I'm Mobile Developer!
 🧑‍🎓 actually studying Information Systems at UNEMAT
+📱working at Multiware Tecnologia
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning Javascript and React-native
+:books: I’m currently learning Typescript and React-native
 
 ## Where to find me
 <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-8094481ba/">![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
