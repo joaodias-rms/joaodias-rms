@@ -8,7 +8,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning Typescript, React-native, Swift and Java for Android.
+:books: I’m currently working with Typescript, React-native, Swift and Java for Android.
 
 ## Where to find me
 <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-8094481ba/">![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
