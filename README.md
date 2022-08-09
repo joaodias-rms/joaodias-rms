@@ -2,9 +2,9 @@
 # Welcome!
 
 ## I'm João Dias!
-:computer: I'm Mobile Developer!
-🧑‍🎓 actually studying Information Systems at UNEMAT
-📱working at Stefanini IT Solutions
+:computer: I'm Mobile Developer! <br>
+🧑‍🎓 Actually studying Information Systems at UNEMAT <br>
+📱Working at Stefanini IT Solutions
 
 :house_with_garden: I’m from Brazil.
 
