@@ -4,7 +4,7 @@
 ## I'm João Dias!
 :computer: I'm Mobile Developer! <br>
 🧑‍🎓 Actually studying Information Systems at UNEMAT <br>
-📱Working at Stefanini IT Solutions
+📱Working at TradeUp Group.
 
 :house_with_garden: I’m from Brazil.
 
